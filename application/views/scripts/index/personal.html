@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <title>personal</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+	<link rel="shortcut icon" href="ico/s.jpg">
+    <link href="css/register.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.6.2/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  <!-- /nav顶部-->
+  
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand">校窝</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="home.html">消息</a></li>
+            <li><a href="place.html">地点</a></li>
+            <li><a href="friend.html">好友</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+          	  <li class="dropdown ">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">个人设置 <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a data-toggle="modal" data-target="#person_data">修改资料</a></li>
+                        <li><a href="personal.html">个人中心</a></li>
+                        <li><a href="http://localhost/SchNest/public/logout/logout">退出</a></li>
+
+                      </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+	   
+	<div class="modal fade" id="person_data" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h2 class="modal-title" id="myModalLabel">修改个人资料</h2>
+          </div>
+          <div class="modal-body">
+              <form role="form">
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                  </div>
+                  <div class="form-group">
+                    <label for="institute">学院</label>
+                    <input type="text" class="form-control" id="institute" placeholder="学院">
+                  </div>
+                  <div class="form-group">
+                    <label for="person_comment">个性签名</label>
+                    <input type="text" class="form-control" id="person_comment" placeholder="个性签名">
+                  </div>
+                  <div class="form-group">
+                    <label for="profileInputFile">头像</label>
+                    <input type="file" id="profileprofileInputFile">
+                    <p class="help-block">上传你的头像.</p>
+                  </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            <button type="button" class="btn btn-primary">提交</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+	<script type="text/javascript">
+    $('#person_data').modal({
+		show:false
+	});
+    </script>
+</body>
+</html>

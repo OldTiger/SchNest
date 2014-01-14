@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+	<link rel="shortcut icon" href="ico/s.jpg">
+	<title>modal test</title>
+</head>
+
+<body>
+
+<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#comment">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="comment" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h2 class="modal-title" id="myModalLabel">请输入你的评论</h2>
+      </div>
+      <div class="modal-body">
+		 <div class="a-mes">
+            <aside>
+                <figure class="portrait">	
+                  <img width="50" src="http://hdn.xnimg.cn/photos/hdn121/20131016/1535/h_tiny_hxsf_78820000037b111a.jpg" ></img>
+                </figure>
+          </aside><!--/aside-->
+          <a><strong>肖强</strong>
+            <span>&rlm;</span>
+          </a><!--/a-->
+          <small><span>2011 6-11 14:55</span></small><!--/small-->
+          <div class="content"><p>今天华夏杰没吃药</p></div>
+        </div>
+        <div style="padding-top:10px;">
+            <input type="text" class="form-control" placeholder="请输入你的评论" >
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+        <button type="button" class="btn btn-primary">提交</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<script>
+$('#comment').modal();
+</script>
+</body>
+</html>

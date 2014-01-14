@@ -1,0 +1,343 @@
+2013-07-22 13:03:54 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810353','还不错','小西')
+2013-07-22 13:03:54 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810354@qq.com','还不错','小西')
+2013-07-22 13:03:54 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810355@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810356@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810357@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810358@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810359@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810360@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810361@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810362@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810363@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810364@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810365@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810366@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810367@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810368@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810369@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810370@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810371@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810372@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810373@qq.com','还不错','小西')
+2013-07-22 13:03:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810374@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810375@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810376@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810377@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810378@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810379@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810380@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810381@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810382@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810383@qq.com','还不错','小西')
+2013-07-22 13:03:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810384@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810385@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810386@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810387@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810388@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810389@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810390@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810391@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810392@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810393@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810394@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810395@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810396@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810397@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810398@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810399@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810400@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810401@qq.com','还不错','小西')
+2013-07-22 13:03:57 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('++1001', '++65201','软件学院','1497810402@qq.com','还不错','小西')
+2013-07-22 13:03:57 释放结果集
+2013-07-22 13:03:57 完成整个查询任务,所用时间为3.3291170597076
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1001', '65201','软件学院','1497810353','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1002', '65202','软件学院','1497810354@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1003', '65203','软件学院','1497810355@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1004', '65204','软件学院','1497810356@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1005', '65205','软件学院','1497810357@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1006', '65206','软件学院','1497810358@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1007', '65207','软件学院','1497810359@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1008', '65208','软件学院','1497810360@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1009', '65209','软件学院','1497810361@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1010', '65210','软件学院','1497810362@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1011', '65211','软件学院','1497810363@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1012', '65212','软件学院','1497810364@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1013', '65213','软件学院','1497810365@qq.com','还不错','小西')
+2013-07-22 13:07:55 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1014', '65214','软件学院','1497810366@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1015', '65215','软件学院','1497810367@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1016', '65216','软件学院','1497810368@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1017', '65217','软件学院','1497810369@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1018', '65218','软件学院','1497810370@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1019', '65219','软件学院','1497810371@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1020', '65220','软件学院','1497810372@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1021', '65221','软件学院','1497810373@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1022', '65222','软件学院','1497810374@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1023', '65223','软件学院','1497810375@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1024', '65224','软件学院','1497810376@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1025', '65225','软件学院','1497810377@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1026', '65226','软件学院','1497810378@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1027', '65227','软件学院','1497810379@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1028', '65228','软件学院','1497810380@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1029', '65229','软件学院','1497810381@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1030', '65230','软件学院','1497810382@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1031', '65231','软件学院','1497810383@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1032', '65232','软件学院','1497810384@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1033', '65233','软件学院','1497810385@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1034', '65234','软件学院','1497810386@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1035', '65235','软件学院','1497810387@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1036', '65236','软件学院','1497810388@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1037', '65237','软件学院','1497810389@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1038', '65238','软件学院','1497810390@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1039', '65239','软件学院','1497810391@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1040', '65240','软件学院','1497810392@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1041', '65241','软件学院','1497810393@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1042', '65242','软件学院','1497810394@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1043', '65243','软件学院','1497810395@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1044', '65244','软件学院','1497810396@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1045', '65245','软件学院','1497810397@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1046', '65246','软件学院','1497810398@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1047', '65247','软件学院','1497810399@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1048', '65248','软件学院','1497810400@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1049', '65249','软件学院','1497810401@qq.com','还不错','小西')
+2013-07-22 13:07:56 查询 INSERT INTO user (`usrac`, `usrpswd`,`institute`,`email`,`usrcomment`,`usrname`) VALUES ('1050', '65250','软件学院','1497810402@qq.com','还不错','小西')
+2013-07-22 13:07:56 释放结果集
+2013-07-22 13:07:56 完成整个查询任务,所用时间为1.3480288982391
+2013-07-22 13:55:05 查询 select uid from user
+2013-07-22 13:55:05 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1111','1112')
+2013-07-22 13:55:06 Query Error: INSERT INTO friend (`uid`, `friendid`) VALUES ('1111','1112')
+Cannot add or update a child row: a foreign key constraint fails (`schnest`.`friend`, CONSTRAINT `F2` FOREIGN KEY (`friendid`) REFERENCES `user` (`uid`))
+2013-07-22 13:55:06 释放结果集
+2013-07-22 13:55:06 完成整个查询任务,所用时间为0.1038761138916
+2013-07-22 13:56:26 查询 select uid from user
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445365','1231445366')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445366','1231445367')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445367','1231445368')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445368','1231445369')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445369','1231445370')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445370','1231445371')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445371','1231445372')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445372','1231445373')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445373','1231445374')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445374','1231445375')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445375','1231445376')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445376','1231445377')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445377','1231445378')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445378','1231445379')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445379','1231445380')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445380','1231445381')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445381','1231445382')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445382','1231445383')
+2013-07-22 13:56:26 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445383','1231445384')
+2013-07-22 13:56:27 查询 INSERT INTO friend (`uid`, `friendid`) VALUES ('1231445384','1231445385')
+2013-07-22 13:56:27 释放结果集
+2013-07-22 13:56:27 完成整个查询任务,所用时间为0.61466407775879
+2013-07-22 15:04:55 查询 select uid from user
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445365','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445365','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445366','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445366','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445367','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445367','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445368','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445368','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445369','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445369','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445370','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445370','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445371','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445371','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445372','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445372','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445373','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445373','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445374','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445374','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445375','山清水秀','广场')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445375','正宗地沟油','餐厅')
+2013-07-22 15:04:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445376','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445376','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445377','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445377','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445378','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445378','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445379','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445379','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445380','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445380','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445381','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445381','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445382','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445382','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445383','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445383','正宗地沟油','餐厅')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445384','山清水秀','广场')
+2013-07-22 15:04:56 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445384','正宗地沟油','餐厅')
+2013-07-22 15:04:56 释放结果集
+2013-07-22 15:04:56 完成整个查询任务,所用时间为1.1877820491791
+2013-07-22 15:06:53 查询 select uid from user
+2013-07-22 15:06:53 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445365','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445365','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445366','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445366','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445367','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445367','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445368','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445368','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445369','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445369','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445370','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445370','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445371','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445371','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445372','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445372','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445373','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445373','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445374','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445374','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445375','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445375','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445376','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445376','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445377','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445377','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445378','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445378','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445379','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445379','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445380','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445380','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445381','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445381','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445382','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445382','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445383','山清水秀','广场')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445383','正宗地沟油','餐厅')
+2013-07-22 15:06:54 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('青春广场','1231445384','山清水秀','广场')
+2013-07-22 15:06:55 查询 INSERT INTO schnest (`pname`, `uid`,`pcomment`,`pcategory`) VALUES ('二餐厅','1231445384','正宗地沟油','餐厅')
+2013-07-22 15:06:55 释放结果集
+2013-07-22 15:06:55 完成整个查询任务,所用时间为1.0937790870667
+2013-07-22 15:14:46 查询 select uid from user
+2013-07-22 15:14:46 查询 select pid from schnest
+2013-07-22 15:14:46 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错',0','0','1231445365','41')
+2013-07-22 15:14:46 Query Error: INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错',0','0','1231445365','41')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','0','1231445365','41')' at line 1
+2013-07-22 15:14:46 释放结果集
+2013-07-22 15:14:46 完成整个查询任务,所用时间为0.016070127487183
+2013-07-22 15:18:19 查询 select uid from user
+2013-07-22 15:18:19 查询 select pid from schnest
+2013-07-22 15:18:19 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错',0','0','1231445365','41')
+2013-07-22 15:18:19 Query Error: INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错',0','0','1231445365','41')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','0','1231445365','41')' at line 1
+2013-07-22 15:18:19 释放结果集
+2013-07-22 15:18:19 完成整个查询任务,所用时间为0.0061440467834473
+2013-07-22 15:18:36 查询 select uid from user
+2013-07-22 15:18:36 查询 select pid from schnest
+2013-07-22 15:18:36 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错',0','0','1231445365','41')
+2013-07-22 15:18:36 Query Error: INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错',0','0','1231445365','41')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','0','1231445365','41')' at line 1
+2013-07-22 15:18:36 释放结果集
+2013-07-22 15:18:36 完成整个查询任务,所用时间为0.012326955795288
+2013-07-22 15:20:10 查询 select uid from user
+2013-07-22 15:20:10 查询 select pid from schnest
+2013-07-22 15:20:10 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('今天天气不错',0','0','1231445365','41')
+2013-07-22 15:20:10 Query Error: INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('今天天气不错',0','0','1231445365','41')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','0','1231445365','41')' at line 1
+2013-07-22 15:20:10 释放结果集
+2013-07-22 15:20:10 完成整个查询任务,所用时间为0.0073549747467041
+2013-07-22 15:20:58 查询 select uid from user
+2013-07-22 15:20:58 查询 select pid from schnest
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445365.41.今天天气不错','0','0','1231445365','41')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445366.42.今天天气不错','0','0','1231445366','42')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445367.43.今天天气不错','0','0','1231445367','43')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445368.44.今天天气不错','0','0','1231445368','44')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445369.45.今天天气不错','0','0','1231445369','45')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445370.46.今天天气不错','0','0','1231445370','46')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445371.47.今天天气不错','0','0','1231445371','47')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445372.48.今天天气不错','0','0','1231445372','48')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445373.49.今天天气不错','0','0','1231445373','49')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445374.50.今天天气不错','0','0','1231445374','50')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445375.51.今天天气不错','0','0','1231445375','51')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445376.52.今天天气不错','0','0','1231445376','52')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445377.53.今天天气不错','0','0','1231445377','53')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445378.54.今天天气不错','0','0','1231445378','54')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445379.55.今天天气不错','0','0','1231445379','55')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445380.56.今天天气不错','0','0','1231445380','56')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445381.57.今天天气不错','0','0','1231445381','57')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445382.58.今天天气不错','0','0','1231445382','58')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445383.59.今天天气不错','0','0','1231445383','59')
+2013-07-22 15:20:58 查询 INSERT INTO message (`wcontent`,`support`, `disdain`, `uid`, `pid`) VALUES ('1231445384.60.今天天气不错','0','0','1231445384','60')
+2013-07-22 15:20:58 释放结果集
+2013-07-22 15:20:58 完成整个查询任务,所用时间为0.60900807380676
+2013-07-22 15:52:32 查询 select uid from user
+2013-07-22 15:52:32 查询 select wid from message
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('1','1231445365','1231445365.1.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('2','1231445366','1231445366.2.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('3','1231445367','1231445367.3.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('4','1231445368','1231445368.4.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('5','1231445369','1231445369.5.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('6','1231445370','1231445370.6.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('7','1231445371','1231445371.7.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('8','1231445372','1231445372.8.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('9','1231445373','1231445373.9.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('10','1231445374','1231445374.10.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('11','1231445375','1231445375.11.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('12','1231445376','1231445376.12.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('13','1231445377','1231445377.13.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('14','1231445378','1231445378.14.说的对啊！')
+2013-07-22 15:52:32 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('15','1231445379','1231445379.15.说的对啊！')
+2013-07-22 15:52:33 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('16','1231445380','1231445380.16.说的对啊！')
+2013-07-22 15:52:33 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('17','1231445381','1231445381.17.说的对啊！')
+2013-07-22 15:52:33 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('18','1231445382','1231445382.18.说的对啊！')
+2013-07-22 15:52:33 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('19','1231445383','1231445383.19.说的对啊！')
+2013-07-22 15:52:33 查询 INSERT INTO comment (`wid`,`uid`,`ccontent`) VALUES ('20','1231445384','1231445384.20.说的对啊！')
+2013-07-22 15:52:33 释放结果集
+2013-07-22 15:52:33 完成整个查询任务,所用时间为0.64662790298462
+2013-07-22 15:57:41 查询 select uid from user
+2013-07-22 15:57:41 查询 select pid from schnest
+2013-07-22 15:57:41 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('41','1231445365')
+2013-07-22 15:57:41 Query Error: INSERT INTO attention (`pid`,`uid`) VALUES ('41','1231445365')
+Duplicate entry '1231445365-41' for key 'PRIMARY'
+2013-07-22 15:57:41 释放结果集
+2013-07-22 15:57:41 完成整个查询任务,所用时间为0.0074977874755859
+2013-07-22 16:00:37 查询 select uid from user
+2013-07-22 16:00:37 查询 select pid from schnest
+2013-07-22 16:00:37 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('41','1231445365')
+2013-07-22 16:00:37 释放结果集
+2013-07-22 16:00:37 完成整个查询任务,所用时间为0.11278104782104
+2013-07-22 16:01:20 查询 select uid from user
+2013-07-22 16:01:20 查询 select pid from schnest
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('41','1231445365')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('42','1231445366')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('43','1231445367')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('44','1231445368')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('45','1231445369')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('46','1231445370')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('47','1231445371')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('48','1231445372')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('49','1231445373')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('50','1231445374')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('51','1231445375')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('52','1231445376')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('53','1231445377')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('54','1231445378')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('55','1231445379')
+2013-07-22 16:01:20 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('56','1231445380')
+2013-07-22 16:01:21 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('57','1231445381')
+2013-07-22 16:01:21 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('58','1231445382')
+2013-07-22 16:01:21 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('59','1231445383')
+2013-07-22 16:01:21 查询 INSERT INTO attention (`pid`,`uid`) VALUES ('60','1231445384')
+2013-07-22 16:01:21 释放结果集
+2013-07-22 16:01:21 完成整个查询任务,所用时间为1.0049519538879
+2013-07-22 20:59:24 查询 select * from message where uid = '1' order by wtime desc
+2013-07-22 20:59:24 释放结果集
+2013-07-22 20:59:24 完成整个查询任务,所用时间为0.13208293914795
+2013-07-22 21:02:37 查询 select * from message where uid = '1231445365' order by wtime desc
+2013-07-22 21:02:37 释放结果集
+2013-07-22 21:02:37 完成整个查询任务,所用时间为0.03388786315918
+2013-07-22 21:04:12 查询 select * from message where uid = '1231445365' order by wtime desc
+2013-07-22 21:04:12 释放结果集
+2013-07-22 21:04:12 完成整个查询任务,所用时间为0.042435884475708
+2013-07-22 21:16:33 查询 select * from message where uid = '1231445365' order by wtime desc
+2013-07-22 21:16:33 释放结果集
+2013-07-22 21:16:33 完成整个查询任务,所用时间为0.0063660144805908
